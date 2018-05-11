@@ -1,0 +1,25 @@
+{
+  "name": "@xybersolve/xs-sorts",
+  "version": "0.0.4",
+  "description": "Simple sort routines to sort arrays of objects by key",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xybersolve/xs-sorts.git"
+  },
+  "keywords": [
+    "Node",
+    "sort",
+    "object",
+    "key"
+  ],
+  "author": "Greg Milligan <xybersolve@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xybersolve/xs-sorts/issues"
+  },
+  "homepage": "https://github.com/xybersolve/xs-sorts#readme"
+}
